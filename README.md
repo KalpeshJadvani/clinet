@@ -4,8 +4,6 @@ This repository contains a React Native project, implementing the react-native-a
 
 
 
-
-
 Development
 Clone this repo.
 Run npm install.
